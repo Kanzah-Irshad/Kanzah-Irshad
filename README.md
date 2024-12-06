@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kanzah Irshad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif](https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif)">
 
 - 🔭 I’m currently studying **Computer Science**
 
